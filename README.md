@@ -63,7 +63,7 @@ Key attributes:
 - Prepared summary tables for products, categories, occasions, cities, and months for Pivot Tables & Pivot Charts
 
 ---
-<h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
+<h2><a class="anchor" id="research-questions--key-findings"></a>Questions & Key Findings</h2>
 
 1. **Total Revenue**: Identify the overall revenue generated in 2023.
 2. **Average Order & Delivery Time**: Evaluate how long it takes for orders to be delivered.
@@ -93,7 +93,7 @@ Key attributes:
 ![FNP Sales Dashboard](Dashboard_image.png)
 
 ---
-<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
+<h2><a class="anchor" id="recommendations"></a>Recommendations</h2>
 
 -	Boost marketing for mid-tier occasions (Holi, Valentine’s Day).
 -	Launch mid-week offers to smooth weekday sales.
